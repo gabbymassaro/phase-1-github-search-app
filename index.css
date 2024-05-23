@@ -11,3 +11,24 @@
 ul {
   list-style: none;
 }
+
+img {
+  text-align: center;
+  border: grey solid 1px;
+  border-radius: 25%;
+  width: auto;
+  height: 12rem;
+  display: inline-grid;
+  margin: 1rem 2rem;
+  box-shadow: 3px 6px #545a60
+}
+
+h2 {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  color:  #138d75 ;
+}
+
+h4 {
+  font-family: 'Courier New', Courier, monospace
+}
